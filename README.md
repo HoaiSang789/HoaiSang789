@@ -35,7 +35,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dzYmE0ODZ1ajExYjJia2JqeHl0OWZucG1zbWI5NHZmMDdwODBseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GiXbMe92rt9NS/giphy.gif" alt="giphy" />
 </p>
 
 ---
